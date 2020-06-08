@@ -1,6 +1,6 @@
 var fn = require('./functions');
 
-module.exports.test = (num) => {
+module.exports = (num) => {
     num = String(num);
     var numList = []
     for (i = 0; i < num.length; i++) {
