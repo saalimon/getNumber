@@ -1,2 +1,2 @@
 var fn = require('../index');
-console.log(fn.test("abcvaca12"))
+console.log(fn("abcvaca12"))
