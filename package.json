@@ -1,5 +1,5 @@
 {
-  "name": "getnumber",
+  "name": "get-number",
   "version": "0.0.1",
   "description": "retrive only number from any text",
   "main": "index.js",
