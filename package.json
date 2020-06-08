@@ -1,0 +1,17 @@
+{
+  "name": "getnumber",
+  "version": "0.0.1",
+  "description": "retrive only number from any text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "number",
+    "function"
+  ],
+  "author": "Niti Buesamae",
+  "license": "WTFPL",
+  "homepage": "https://github.com/saalimon/getNumber"
+}
